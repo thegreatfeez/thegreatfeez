@@ -21,6 +21,16 @@
 
 ---
 
+### 🧭 What I'm Learning Next
+<p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web3-282C34?style=for-the-badge&logo=web3dotjs&logoColor=F16822"/>
+  <img src="https://img.shields.io/badge/Smart_Contracts-4C51BF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+</p>
+
+---
+
 ### 🌐 Web3 Interest
 > Exploring how blockchain can power scalable, efficient, and decentralized real-world applications.  
 Currently building foundational knowledge in smart contract development and decentralized architecture.

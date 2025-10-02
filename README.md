@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Adams Afeez</h1>
-<p align="center">🚀 Web Developer in the making | 💻 Future Web3 Builder | 🌍 Lagos, Nigeria</p>
+<p align="center">💻 Frontend Developer | 🔗 Blockchain Developer in Training | 🌍 Lagos, Nigeria</p>
 
 ---
 
@@ -10,23 +10,25 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 ---
 
 ### 🧠 Currently Learning
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web3-282C34?style=for-the-badge&logo=web3dotjs&logoColor=F16822"/>
+  <img src="https://img.shields.io/badge/Smart_Contracts-4C51BF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
 </p>
 
 ---
 
 ### 🧭 What I'm Learning Next
 <p>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web3-282C34?style=for-the-badge&logo=web3dotjs&logoColor=F16822"/>
-  <img src="https://img.shields.io/badge/Smart_Contracts-4C51BF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Smart_Contract_Auditing-FF6B6B?style=for-the-badge&logo=security&logoColor=white"/>
 </p>
 
 ---
@@ -38,9 +40,11 @@ Currently building foundational knowledge in smart contract development and dece
 ---
 
 ### 📍 Roadmap
-- Solidify React skills with practical projects
-- Transition into Solidity & smart contract engineering
-- Build Web3 solutions that solve everyday problems
+
+- Build production ready projects with React & TypeScript
+- Master Solidity & smart contract development
+- Learn smart contract security & auditing techniques
+- Build Web3 dApps that solve real world problems
 
 ---
 
@@ -54,5 +58,5 @@ Currently building foundational knowledge in smart contract development and dece
 ---
 
 <p align="center">
-  <i>“Build quietly. Let impact speak.”</i>
+  <i>"Build quietly. Let impact speak."</i>
 </p>

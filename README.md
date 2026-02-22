@@ -19,7 +19,7 @@ My approach: understand the protocol deeply, think like an attacker, write clear
 
 | Contest | Findings | Points | Report |
 |---------|----------|--------|--------|
-| Puppy Raffle | — | — | — |
+| Raisebox Faucet | 2 | 200 EXP | 2 |
 
 #### 🏆 Competitive Audits
 

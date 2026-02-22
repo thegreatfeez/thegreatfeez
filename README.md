@@ -1,6 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Adams Afeez</h1>
 <p align="center">🔐 Smart Contract Security Researcher | ⚡ Smart Contract Developer | 🌍 Lagos, Nigeria</p>
-<p align="center"><i>Breaking contracts before the bad guys do.</i></p>
 
 ---
 

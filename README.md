@@ -22,9 +22,9 @@ My approach: understand the protocol deeply, think like an attacker, write clear
 
 #### 🏆 Competitive Audits
 
-| Protocol | Platform | Type | Findings | Payout | Report |
+| Protocol | Platform | Type | Findings(Valid) | Payout | Report |
 |----------|----------|------|----------|--------|--------|
-| Monetrix | C4 | Audit | — | — | — |
+| Monetrix | C4 | Audit | 1(0) | $0 | https://code4rena.com/audits/2026-04-monetrix/submissions/S-468 |
 
 #### 📊 Stats
 

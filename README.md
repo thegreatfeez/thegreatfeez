@@ -24,7 +24,7 @@ My approach: understand the protocol deeply, think like an attacker, write clear
 
 | Protocol | Platform | Type | Findings | Payout | Report |
 |----------|----------|------|----------|--------|--------|
-| — | — | — | — | — | — |
+| Monetrix | C4 | Audit | — | — | — |
 
 #### 📊 Stats
 

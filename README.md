@@ -1,53 +1,63 @@
 <h1 align="center">Hey there 👋, I'm Adams Afeez</h1>
-<p align="center">🔐 Smart Contract Security Researcher | ⚡ Smart Contract Developer | 🌍 Lagos, Nigeria</p>
+<p align="center">⚡ Smart Contract Developer | 🤖 AI Engineering &amp; 📊 Financial Analysis | 🛡️ Security-Minded Builder | 🌍 Lagos, Nigeria</p>
+
+<p align="center"><i>Converting algorithms into market logic... Stay tuned. ⏳</i></p>
 
 ---
 
 ### 👨‍💻 About Me
 
-Smart contract security researcher focused on identifying vulnerabilities in DeFi protocols and EVM-based applications. I bring a builder's intuition to security work — having developed production-ready smart contracts, I understand how protocols are constructed and where they tend to break. Currently sharpening my auditing skills through CodeHawks First Flights and competitive audit contests.
+Blockchain developer expanding into AI engineering and financial analysis.
 
-My approach: understand the protocol deeply, think like an attacker, write clear and actionable reports.
+Experienced in building production-ready EVM smart contracts, currently leveraging Python to explore natural language processing, data manipulation, and market fundamentals. Focused on building intelligent, data-driven systems at the intersection of **web3, AI, and finance**.
+
+Security is a skill I'm always keeping sharp alongside my main work — I review contracts, follow audit contests, and carry a builder's intuition into how protocols are constructed and where they tend to break.
+
+My approach: **understand the system deeply, think like an attacker, build for the long run.**
 
 ---
 
-### 🛡️ Security Research
+### 🔭 What I'm Currently Building Toward
 
-#### 🚀 First Flights (CodeHawks)
-> Beginner-friendly audit contests on CodeHawks — points-based, no prize money. This is where I'm currently building my auditing reps.
-
-| Contest | Findings | Points | Report |
-|---------|----------|--------|--------|
-| Raisebox Faucet | 2 | 200 EXP | 2 |
-
-#### 🏆 Competitive Audits
-
-| Protocol | Platform | Type | Findings(Valid) | Payout | Report |
-|----------|----------|------|----------|--------|--------|
-| Monetrix | C4 | Audit | 1(0) | $0 | https://code4rena.com/audits/2026-04-monetrix/submissions/S-468 |
-
-#### 📊 Stats
-
-| High | Medium | Low | Contests | Total Earned |
-|------|--------|-----|----------|--------------|
-| 0 | 0 | 0 | 0 | $0 |
+- 🤖 **AI Engineering** — Python, NLP fundamentals, data manipulation pipelines
+- 📊 **Financial Analysis** — market fundamentals, financial modeling, data-driven research
+- 📈 **Quant / Financial Engineering** — long-term path toward quantitative systems and market logic
+- 🌐 **Web3 × AI** — intelligent, data-driven systems bridging on-chain data and off-chain models
 
 ---
 
 ### 💻 Tech Stack
+
+**Web3 & Smart Contracts**
 <p>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white"/>
+</p>
+
+**AI, Data & Finance**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP_Basics-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+**Frontend & Tooling**
+<p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-### 🛠️ Web3 & Security Toolkit
+### 🛠️ Web3 Toolkit
 <p>
   <img src="https://img.shields.io/badge/Slither-000000?style=for-the-badge&logo=ethereum&logoColor=white"/>
   <img src="https://img.shields.io/badge/Aderyn-000000?style=for-the-badge&logo=ethereum&logoColor=white"/>
@@ -61,30 +71,44 @@ My approach: understand the protocol deeply, think like an attacker, write clear
 
 ### 🔍 What I Do
 
-- 🔐 **Security Research**: Manual code review, vulnerability identification, and audit reporting
-- 🐛 **Bug Hunting**: Reentrancy, access control, oracle manipulation, arithmetic flaws
 - 🏗️ **Smart Contracts**: Secure, gas-optimized contracts with comprehensive testing
 - 🧪 **Testing**: Unit, integration, and fuzz testing for reliability
 - 🎨 **Web3 Applications**: Full-stack dApps with seamless wallet integration
+- 🤖 **AI Engineering**: Python-driven NLP, data manipulation, and model experimentation
+- 📊 **Market Data Analysis**: Fundamentals, financial modeling, and data-driven research
+- 🛡️ **Security Practice**: Ongoing code review and vulnerability awareness — a skill I keep sharpening
 
 ---
 
-### 🧠 Security Focus Areas
+### 🧠 Focus Areas
+
+```python
+# Where I'm headed
+def approach():
+    understand_the_system()
+    think_like_an_attacker()      # security background
+    analyze_the_data()            # AI + finance
+    report_with_clarity()
+    return "web3 × AI × finance"
+```
 
 ```solidity
-// My auditing philosophy
+// The mindset that keeps security sharp
 function approach() public pure returns (string memory) {
-    return "Understand the protocol. Think like an attacker. Report with clarity.";
+    return "Understand the protocol. Think like an attacker. Build with care.";
 }
 ```
 
-**Vulnerability Classes I Hunt:**
-- Reentrancy & cross-function attacks
-- Access control & privilege escalation
-- Integer overflow / underflow
-- Oracle manipulation & flash loan attacks
-- Weak randomness & front-running
-- Denial of service vectors
+**Security Skills I Keep Sharpening:**
+- Manual code review & vulnerability awareness
+- Reentrancy & access control flaws
+- Oracle manipulation & flash loan vectors
+- Secure contract patterns & testing discipline
+
+**Learning in Progress:**
+- Python for NLP & data manipulation
+- Financial analysis & market fundamentals
+- Quantitative finance / financial engineering foundations
 
 ---
 
@@ -99,5 +123,5 @@ function approach() public pure returns (string memory) {
 ---
 
 <p align="center">
-  <i>"Find the bug. Write the report. Secure the chain."</i>
+  <i>"Build the system. Read the data. Ship the logic."</i>
 </p>
